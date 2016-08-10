@@ -1,3 +1,3 @@
 # HFA
 
-Create HFA visual testing point patterns. 
+Create HFA testing program patterns. 
